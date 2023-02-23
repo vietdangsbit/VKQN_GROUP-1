@@ -12,7 +12,7 @@
                     </div>
 
                     <div class="footer_info footer_item">
-                        <h3 class="footer_heading ">VỀ DREAMTEAM</h3>
+                        <h3 class="footer_heading ">VỀ VKQN_Group</h3>
                         <ul>
                             <li><a href="./gtdreamteam/gtdreamteam.html">Giới thiệu VKQN_GROUP</a></li>
                             <li><a href="">Tuyển dụng</a></li>

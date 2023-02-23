@@ -151,13 +151,13 @@
                 </div>
 
                 <div class="footer_info footer_item">
-                    <h3 class="footer_heading ">VỀ DREAMTEAM</h3>
+                    <h3 class="footer_heading ">VỀ VKQN_Group</h3>
                     <ul>
-                        <li><a href="">Giới thiệu DreamTeam</a></li>
+                        <li><a href="">Giới thiệu VKQN_Group</a></li>
                         <li><a href="">Tuyển dụng</a></li>
                         <li><a href="">Điều khoản</a></li>
                         <li><a href="">Chính sách bảo mật</a></li>
-                        <li><a href="">Tiếp thị liên kết cùng DreamTeam</a></li>
+                        <li><a href="">Tiếp thị liên kết cùng VKQN_Group</a></li>
                     </ul>
                 </div>
 
@@ -175,17 +175,17 @@
                 <div class="footer_contact footer_item">
                     <h3 class="footer_heading">THÔNG TIN LIÊN HỆ</h3>
                     <ul>
-                        <li><i class="fa fa-map-marker"></i> 666 ABC3 Nguyễn Hữu Thọ, Phường 22, Hải Châu, Tp.Đà Nẵng</li>
+                        <li><i class="fa fa-map-marker"></i> 147D, Tân Lập 2, phường Hiệp Phú, quận 9, TP Thủ Đức, TP HCM</li>
                         <li><i class="fa fa-phone"></i><a href="tel:0123456789"> 0123 456 789</a></li>
-                        <li><i class="fa fa-envelope"></i><a href="mailto:dreamteam@gmail.com"> dreamteam@gmail.com</a></li>
+                        <li><i class="fa fa-envelope"></i><a href="mailto:dreamteam@gmail.com"> vkqn@gmail.com</a></li>
                         <li><i class="fab fa-facebook"></i><a href=""> Facebook</a></li>
                         <li><i class="fab fa-instagram"></i><a href=""> Instagram</a></li>
                     </ul>
                 </div>
             </div>
 
-            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về DreamTeam
-                <!-- © Bản quyền thuộc về Trần Cường, Nguyễn Thanh Tiến, Đỗ Vạn Lâm -->
+            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về VKQN_Group
+               
             </div>
         </div>
     </div>

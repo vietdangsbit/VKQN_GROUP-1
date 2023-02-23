@@ -94,7 +94,7 @@
 
         <div class="dayright">
             <div class="footer-right" id="hvm"></div>
-            <div class="footer-bot">DREAMTEAM</div>
+            <div class="footer-bot">VKQN_Group</div>
         </div>
     </div>
     <div class="nutbill">
