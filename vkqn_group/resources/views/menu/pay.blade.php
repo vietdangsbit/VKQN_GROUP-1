@@ -18,7 +18,7 @@
            <div class="header">
             <div class="topbar">
                 <div class="topbar_place">
-                    <i class="fas fa-map-marker"></i> 34 Dương Thưởng, Hòa Cường Bắc, Hải Châu, Đà Nẵng
+                    <i class="fas fa-map-marker"></i> 147D, Tân Lập 2, phường Hiệp Phú, quận 9, TP Thủ Đức, TP HCM
                 </div>
 
                 <div class="topbar_media">
