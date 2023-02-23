@@ -1,13 +1,13 @@
 <div class="header">
     <div class="topbar">
         <div class="topbar_place">
-            <i class="fas fa-map-marker"></i> 34 Dương Thưởng, Hòa Cường Bắc, Hải Châu, Đà Nẵng
+            <i class="fas fa-map-marker"></i> 147D, Tân Lập 2, phường Hiệp Phú, quận 9, TP Thủ Đức, TP HCM
         </div>
 
         <div class="topbar_media">
             <div class="media_phone">
                 <i class="fas fa-phone"></i>
-                <span>0123456789</span>
+                <span>0962961372</span>
             </div>
             <div class="media_fb">
                 <a href><i class="fab fa-facebook-f color-while"></i></a>
