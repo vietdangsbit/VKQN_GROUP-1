@@ -18,7 +18,7 @@
                             <li><a href="">Tuyển dụng</a></li>
                             <li><a href="">Điều khoản</a></li>
                             <li><a href="">Chính sách bảo mật</a></li>
-                            <li><a href="">Tiếp thị liên kết cùng DreamTeam</a></li>
+                            <li><a href="">Tiếp thị liên kết cùng VKQN</a></li>
                         </ul>
                     </div>
 
