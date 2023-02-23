@@ -166,15 +166,15 @@
                     <ul>
                         <li><i class="fa fa-map-marker"></i> 147D, Tân Lập 2, phường Hiệp Phú, quận 9, TP Thủ Đức, TP HCM</li>
                         <li><i class="fa fa-phone"></i><a href="tel:0123456789"> 0123 456 789</a></li>
-                        <li><i class="fa fa-envelope"></i><a href="mailto:dreamteam@gmail.com"> dreamteam@gmail.com</a></li>
+                        <li><i class="fa fa-envelope"></i><a href="mailto:dreamteam@gmail.com"> vkqn@gmail.com</a></li>
                         <li><i class="fab fa-facebook"></i><a href=""> Facebook</a></li>
                         <li><i class="fab fa-instagram"></i><a href=""> Instagram</a></li>
                     </ul>
                 </div>
             </div>
 
-            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về DreamTeam
-                <!-- © Bản quyền thuộc về Trần Cường, Nguyễn Thanh Tiến, Đỗ Vạn Lâm -->
+            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về VKQN_Group
+                
             </div>
         </div>
     </div>
