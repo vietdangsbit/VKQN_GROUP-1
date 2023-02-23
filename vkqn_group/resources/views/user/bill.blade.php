@@ -14,7 +14,7 @@
     <div class="header">
         <div class="logo"><img src="http://mauweb.monamedia.net/donghohaitrieu/wp-content/uploads/2019/07/logo-mona-2.png"/></div>
         <div class="company">DreamTeam_technology</div><br/>
-        <div class="diachicpn"><i class="fas fa-map-marker-alt"></i> 34 dương thưởng, hoà cường bắc, Hải châu, Đà Nẵng </div>
+        <div class="diachicpn"><i class="fas fa-map-marker-alt"></i> 147D, Tân Lập 2, hoà cường bắc, Hải châu, Đà Nẵng </div>
         <div class="SDTcpn"><i class="fa-solid fa-mobile"></i> 0123456789</div>
     </div>
   <br/>
