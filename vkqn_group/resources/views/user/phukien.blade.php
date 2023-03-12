@@ -130,7 +130,7 @@
             <div class="product_featured">
                 <div class="product_heading">
                     <hr>
-                    <h1 class="">Khuyến mãi hot</h1>
+                    <h1 class="">Khuyến mãi đặc biệt</h1>
                     <hr>
                 </div>
 
