@@ -35,7 +35,7 @@
                     <li><a href="">Trên 15 triệu</a></li>
                 </ul>
 
-                <h2 class="leftbar">Tính năng nổi bật</h2>
+                <h2 class="leftbar">Tính năng đặc biệt</h2>
                 <ul>
                     <li><a href="">Bảo mật vân tay</a></li>
                     <li><a href="">Nhận diện khuôn mặt</a></li>
