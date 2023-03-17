@@ -164,7 +164,7 @@
                 <div class="footer_contact footer_item">
                     <h3 class="footer_heading">THÔNG TIN LIÊN HỆ</h3>
                     <ul>
-                        <li><i class="fa fa-map-marker"></i> 666 ABC3 Nguyễn Hữu Thọ, Phường 22, Hải Châu, Tp.Đà Nẵng</li>
+                        <li><i class="fa fa-map-marker"></i> 147D Tân Lập 2 Hiệp Phú Quận 9, TpHCM</li>
                         <li><i class="fa fa-phone"></i><a href="tel:0123456789"> 0123 456 789</a></li>
                         <li><i class="fa fa-envelope"></i><a href="mailto:dreamteam@gmail.com"> dreamteam@gmail.com</a></li>
                         <li><i class="fab fa-facebook"></i><a href=""> Facebook</a></li>
