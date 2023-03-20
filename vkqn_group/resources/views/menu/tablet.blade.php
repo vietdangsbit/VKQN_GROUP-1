@@ -173,8 +173,8 @@
                 </div>
             </div>
 
-            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về DreamTeam
-                <!-- © Bản quyền thuộc về Trần Cường, Nguyễn Thanh Tiến, Đỗ Vạn Lâm -->
+            <div class="footer_copyright">Copyright © 2022 Bản quyền thuộc về VKQN_Group
+                <!-- © Bản quyền thuộc về Phạm Kông Kiên, Đặng Đình Việt, Nguyễn Đại Quang -->
             </div>
         </div>
     </div>
