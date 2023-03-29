@@ -43,7 +43,7 @@
                     <div class="product_phukien_item">
                         <a href="">
                             <div class="product_phukien_icon active"><i class="fa fa-medal"></i></div>
-                            <div class="product_phukien_text">Khuyến mãi hot</div>
+                            <div class="product_phukien_text">Khuyến mãi đặc biệt</div>
                         </a>
                     </div>
 
@@ -130,7 +130,7 @@
             <div class="product_featured">
                 <div class="product_heading">
                     <hr>
-                    <h1 class="">Khuyến mãi hot</h1>
+                    <h1 class="">Khuyến mãi đặc biệt</h1>
                     <hr>
                 </div>
 
