@@ -16,7 +16,7 @@
         @include('allcode.headchungdn')
         <div class="main">
             <div class="contact_top">
-                <h1>Liên Hệ Với Chúng Tôi Qua Hotline</h1>
+                <h1>Liên Hệ Với Chúng Tôi</h1>
 
                 <div class="topbar_media topbar_contact">
                     <div class="media_fb contact_border">
