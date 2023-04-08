@@ -77,7 +77,7 @@
     ?>
 
 
-        <td colspan="4" class="tong">Phí Giao </td>
+        <td colspan="4" class="tong">Phí Giao Hàng</td>
         <td class="cotSo"><?php echo $phigiaohang ?><sup>đ</sup></td>
 
         <tr>
