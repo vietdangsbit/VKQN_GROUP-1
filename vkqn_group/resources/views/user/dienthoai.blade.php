@@ -16,7 +16,7 @@
         @include('allcode.headuser')
         <div class="main">
             <div class="product_leftbar">
-                <h2 class="leftbar">Hãng Sản Phẩm</h2>
+                <h2 class="leftbar">Hãng Sản Phẩm Pro </h2>
                 <ul>
                     <li><a href="">Iphone</a></li>
                     <li><a href="">Samsung</a></li>
